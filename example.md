@@ -1,4 +1,4 @@
-## 欢迎使用 MarkdownPad 2 ##
+# 学习学习AngularJS #
 
 **MarkdownPad** 是 Windows 平台上一个功能完善的 Markdown 编辑器。
 
