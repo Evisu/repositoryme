@@ -1,6 +1,5 @@
 # 学习AngularJS #
 ----------
-
 ## AngularJS快速开始  ##
 开始学习AngularJS的一个好方法是创建经典应用程序“Hello World!”：
 
