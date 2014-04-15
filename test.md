@@ -14,6 +14,10 @@
 - 标题 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
 - 列表 (`Ctrl+U` and `Ctrl+Shift+O`)
 
+  public void test(){
+  
+  }
+
 ### 实时预览，所见即所得 ###
 
 无需猜测您的 [语法](http://markdownpad.com) 是否正确；每当您敲击键盘，实时预览功能都会立刻准确呈现出文档的显示效果。
