@@ -15,8 +15,9 @@
 - 列表 (`Ctrl+U` and `Ctrl+Shift+O`)
 
   public void test(){
-  
+    System.out.println('Hello World!');
   }
+  
 
 ### 实时预览，所见即所得 ###
 
